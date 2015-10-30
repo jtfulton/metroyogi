@@ -1,0 +1,143 @@
+# Created by httpswww.gitignore.ioapiwindows,osx,notepadpp,wordpress,xcode,eclipse
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN
+
+# Windows Installer files
+.cab
+.msi
+.msm
+.msp
+
+# Windows shortcuts
+.lnk
+
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two r
+Icon
+
+
+# Thumbnails
+._
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+### NotepadPP ###
+# Notepad++ backups #
+.bak
+
+
+### WordPress ###
+.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+wp-config.php
+wp-contentadvanced-cache.php
+wp-contentbackup-db
+wp-contentbackups
+wp-contentblogs.dir
+wp-contentcache
+wp-contentupgrade
+wp-contentuploads
+wp-contentwp-cache-config.php
+wp-contentpluginshello.php
+
+readme.html
+license.txt
+
+
+
+### Xcode ###
+# Xcode
+#
+# gitignore contributors remember to update GlobalXcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## Build generated
+build
+DerivedData
+
+## Various settings
+.pbxuser
+!default.pbxuser
+.mode1v3
+!default.mode1v3
+.mode2v3
+!default.mode2v3
+.perspectivev3
+!default.perspectivev3
+xcuserdata
+
+## Other
+.xccheckout
+.moved-aside
+.xcuserstate
+
+
+### Eclipse ###
+.pydevproject
+.metadata
+.gradle
+bin
+tmp
+.tmp
+.bak
+.swp
+~.nib
+local.properties
+.settings
+.loadpath
+
+# Eclipse Core
+.project
+
+# External tool builders
+.externalToolBuilders
+
+# Locally stored Eclipse launch configurations
+.launch
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
