@@ -70,6 +70,13 @@ wp-contentuploads
 wp-contentwp-cache-config.php
 wp-contentpluginshello.php
 
+/wp-content/themes/twenty*
+/wp-content/upgrade
+/wp-content/uploads
+/sitemap.*
+/wp-config.php
+*.sql
+
 readme.html
 license.txt
 
