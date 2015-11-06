@@ -57,24 +57,19 @@ Temporary Items
 ### WordPress ###
 .log
 .htaccess
-sitemap.xml
-sitemap.xml.gz
-wp-config.php
-wp-contentadvanced-cache.php
-wp-contentbackup-db
-wp-contentbackups
-wp-contentblogs.dir
-wp-contentcache
-wp-contentupgrade
-wp-contentuploads
-wp-contentwp-cache-config.php
-wp-contentpluginshello.php
+wp-content/advanced-cache.php
+wp-content/backup-db
+wp-content/backups
+wp-content/blogs.dir
+wp-content/cache
+wp-content/uploads
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
 
-/wp-content/themes/twenty*
-/wp-content/upgrade
-/wp-content/uploads
-/sitemap.*
-/wp-config.php
+wp-content/upgrade
+wp-content/uploads
+sitemap.*
+wp-config.php
 *.sql
 
 readme.html
