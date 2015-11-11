@@ -70,7 +70,6 @@ wp-content/upgrade
 wp-content/uploads
 sitemap.*
 wp-config.php
-*.sql
 
 readme.html
 license.txt
